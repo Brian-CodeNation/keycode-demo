@@ -1,4 +1,4 @@
-.button-text {
+.centreText {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
 }
